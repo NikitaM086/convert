@@ -102,3 +102,4 @@ D:\Myachkov31P\0202\конверт\3\ClassLibrary1\TestProject1\obj\Debug\net8.0
 D:\Myachkov31P\0202\конверт\3\ClassLibrary1\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 D:\Myachkov31P\0202\конверт\3\ClassLibrary1\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 D:\Myachkov31P\0202\конверт\3\ClassLibrary1\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+D:\Myachkov31P\0202\конверт\3\ClassLibrary1\TestProject1\obj\Debug\net8.0\TestProject1.sourcelink.json
