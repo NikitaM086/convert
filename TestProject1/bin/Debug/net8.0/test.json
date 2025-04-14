@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "Title": "\u0421",
+    "Instructor": "\u0410\u0440\u043A\u0430\u0434\u0438\u0439 \u043F\u0430\u0440\u043E\u0432\u043E\u0437\u043E\u0432",
+    "StudentCount": 33,
+    "Rating": 3.3
+  },
+  {
+    "Id": 4,
+    "Title": "\u041F\u0435\u0447\u044C \u043F\u0438\u0440\u043E\u0436\u043A\u0438",
+    "Instructor": "\u041C\u0430\u0440\u0438\u044F \u0418\u0432\u0430\u043D\u043E\u0432\u0430",
+    "StudentCount": 86,
+    "Rating": 4.8
+  },
+  {
+    "Id": 3,
+    "Title": "\u041A\u043E\u0442\u0451\u043B",
+    "Instructor": "\u0410\u043D\u0434\u0440\u0435\u0439 \u0410\u043D\u0434\u0440\u043E\u0439\u0434\u043E\u0432",
+    "StudentCount": -1,
+    "Rating": 1
+  }
+]
